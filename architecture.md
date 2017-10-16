@@ -1,9 +1,3 @@
-![LeApp Logo](img/leapp-logo.png){:width="200px"}
-
-# Welcome to LeApp
-
-[API Docs](/apidoc/index.html)
-
 ## Architecture overview
 
 ### Big picture
