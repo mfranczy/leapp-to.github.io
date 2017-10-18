@@ -1,8 +1,8 @@
 <div class="container has-text-centered">                                                                         
  <div class="columns is-vcentered">                                                                              
   <div class="column is-5">                                                                                     
-   <figure class="image is-4by3">                                                                              
-    <iframe src="https://drive.google.com/file/d/0B6v3-1RAhbaYTzZOV1ZBM3djbFU/preview" width="800" height="600"></iframe>
+   <figure>                                                                              
+    <iframe src="https://drive.google.com/file/d/0B6v3-1RAhbaYTzZOV1ZBM3djbFU/preview" width="640" height="480"></iframe>
    </figure>                                                                                                   
   </div>                                                                                                        
  <div class="column is-6 is-offset-1">                                                                         
