@@ -14,7 +14,7 @@
   </h2>                                                                                                       
   <br>                                                                                                        
   <p class="has-text-centered">                                                                               
-   <a class="button is-large">                                                                               
+   <a class="button is-large" href="architecture">                                                                               
     Learn more                                                                                              
   </a>                                                                                                      
  </p>                                                                                                        
