@@ -2,7 +2,7 @@
  <div class="columns is-vcentered">                                                                              
   <div class="column is-5">                                                                                     
    <figure class="image is-4by3">                                                                              
-    <img src="http://placehold.it/800x600" alt="Description">                                                 
+    <iframe src="https://drive.google.com/file/d/0B6v3-1RAhbaYTzZOV1ZBM3djbFU/preview" width="800" height="600"></iframe>
    </figure>                                                                                                   
   </div>                                                                                                        
  <div class="column is-6 is-offset-1">                                                                         
