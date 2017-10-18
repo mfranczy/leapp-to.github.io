@@ -1,12 +1,11 @@
 ## Architecture overview
 
-### Big picture
 ![Big picture](img/arch-big-picture.png)
 
 ### Execution flow
 ![LeApp Logo](img/leapp-sequence-diagram.png)
 
-#### Legend: 
+#### Legend 
 1. **Client**
  
    Face of the LeApp - Client can be web UI (cockpit plugin) or shell client, both communicate with Daemon over HTTP protocol.
@@ -59,7 +58,3 @@
    it can be script which is using Open Shift API to deploy given app.
 
    To get deep knowledge how to create your own actors visit: https://github.com/leapp-to/leapp-actors
-
-### Execution flow example
-In progress...
-
