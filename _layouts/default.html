@@ -24,13 +24,13 @@
               <span></span>
             </span>
             <div class="nav-right nav-menu">
-              <a class="nav-item is-tab is-active" href="/">
+              <a class="nav-item is-tab is-active" href="/" id="home">
                 Home
               </a>
-              <a class="nav-item is-tab" href="/architecture">
+              <a class="nav-item is-tab" href="/architecture" id="architecture">
                 Architecture
               </a>
-              <a class="nav-item is-tab" target="_blank" href="/apidoc/index.html">
+              <a class="nav-item is-tab" target="_blank" href="/apidoc/index.html" onclick="event.stopPropagation();">
                 API
               </a>
             </div>
@@ -67,6 +67,18 @@
         color: #d10000;
     }
   </style>
+  <script type="text/javascript">
+            function swapActive(add, remove) {
+                document.getElementById(remove).classList.remove("is-active");
+                document.getElementById(add).className += " is-active";
+            }
+
+            if (window.location.pathname == "/architecture") {
+                swapActive("architecture", "home");
+            } else {
+                swapActive("home", "architecture");
+            }
+  </script>
 </body>
 </html>
 
